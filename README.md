@@ -305,7 +305,7 @@ Responsibilities:
 | Member 1 | Shahd AbdElhay     | [GitHub](https://github.com/shahd-abdelhay)        | [LinkedIn](https://www.linkedin.com/in/shahd-abdelhay-3538022a2/) |
 | Member 2 | Jana Ahmed         | [GitHub](https://github.com/janaahmeed)            | [LinkedIn](https://www.linkedin.com/in/jana-ahmed-mostafa-1216972a5/) |
 | Member 3 | Jomana El-Saghier  | [GitHub](https://github.com/Jomana-ElSaghier)      | [LinkedIn](https://www.linkedin.com/in/jomana-el-saghier-a602512ba/) |
-| Member 4 | Evan               |                                                    | [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/evan-hany-064063417?trk=contact-info)) |
+| Member 4 | Evan               |                                                    | [LinkedIn](https://www.linkedin.com/in/evan-hany-064063417?trk=contact-info) |
 | Member 5 | Adam Fadel         | [GitHub](https://github.com/AdamFadel)             | [LinkedIn](https://www.linkedin.com/in/adam-fadel/) |
 
 ---
